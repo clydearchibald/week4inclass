@@ -1,0 +1,50 @@
+
+/*a bunch of other css*/
+/*@media screen and (min-width: 500px) {
+		.class {
+		}
+}
+
+
+@media only screen and (max-width: 500px) {
+	/*whatever css you want*/
+/*}*/
+
+
+.box {
+	height: 200px;
+	display: inline-block;
+	width: 24%;
+}
+
+.red {
+	background-color: red;
+
+}
+
+.blue {
+	background-color: blue;
+
+}
+
+.green {
+	background-color: green;
+
+}
+
+.orange {
+	background-color: orange;
+
+}
+
+@media (min-width: 1850px) {
+	.box {
+		width: 100%;
+	}
+}
+
+@media (max-width: 700px) {
+	.red , .orange {
+		display: none;
+	}
+}
